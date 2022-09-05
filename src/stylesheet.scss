@@ -23,4 +23,11 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.btn-col {
+    --bs-btn-hover-bg: black;
+    --bs-btn-color: black;
+    --bs-btn-active-color: white;
+    --bs-btn-border-color: black;
+    
 
+}
