@@ -1,0 +1,26 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+$primary:#ebeef0;
+$secondary: rgb(26, 114, 169);
+
+
+
+
+
+body {
+    background-color: $primary;
+    min-height: 100vh;
+    overflow-x:hidden;
+}
+nav {
+    background-color: $secondary;
+}
+footer {
+    background-color: $secondary;
+}
+
+.cover {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
